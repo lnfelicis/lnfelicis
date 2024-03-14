@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @lnfelicis
 - 👀 I’m interested in software development.
-- 🌱 I’m currently learning Python.
+- 🌱 I'm currently learning Python, React, C# and Java. 
