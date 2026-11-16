@@ -1,1 +1,1 @@
-- 👋 Hi, I’m Ömer
+I’m Ömer
